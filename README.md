@@ -43,6 +43,6 @@ Welcome to my GitHub profile! I am a passionate software developer currently bas
 ---
 
 ## 📫 Get In Touch
-* **LinkedIn:** [linkedin.com/in/your-username](https://www.linkedin.com/in/your-username) (Replace with your actual LinkedIn)
-* **Email:** [your-email@example.com](mailto:your-email@example.com) (Replace with your actual email)
-* **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com) (Replace with your portfolio link if you have one)
+* **LinkedIn:** [linkedin.com/in/abhinav-singh-810bba301](https://www.linkedin.com/in/abhinav-singh-810bba301/)
+* **Email:** [singhasabhinav6@gmail.com](mailto:singhasabhinav6@gmail.com)
+* **Portfolio:** [abhinavpro.netlify.app](https://abhinavpro.netlify.app/)
