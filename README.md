@@ -1,6 +1,6 @@
 # 🇯🇵 Konnichiwa! I'm Abhinav Singh 👋
 
-Welcome to my GitHub profile! I am a passionate software developer currently based in **Japan** 📍, looking for part-time IT work or long-term software engineering internships. I love building responsive, user-friendly web applications using modern technologies.
+Welcome to my GitHub profile! I am a passionate software developer currently based in **Tokyo, Japan** 📍, looking for part-time IT work or long-term software engineering internships. I have hands-on experience working in a global Japanese enterprise (Mitsubishi Fuso) and love building automated workflows and web applications.
 
 ---
 
@@ -10,10 +10,15 @@ Welcome to my GitHub profile! I am a passionate software developer currently bas
 * **Current Location:** Tokyo, Japan
 * **Availability:** Open to **Remote**, **Hybrid**, or **On-site** positions.
 
+## 🏢 Professional Experience in Japan
+* **IT Intern** at **Mitsubishi Fuso Truck and Bus Corporation** (Tokyo, Japan) — *Sept 2024 - Feb 2025*
+  * Developed SharePoint platforms and Power Apps solutions to automate business workflows and processes.
+  * Supported IT PMO (Project Management Office) activities and platform modernization efforts.
+
 ## 🗣️ Languages
 * **English:** Professional / Native
 * **Japanese:** Conversational / Beginner (JLPT N4)
-  * *I am eager to work in multi-cultural teams and improve my professional Japanese!*
+  * *Eager to work in multi-cultural teams and improve my professional Japanese!*
 
 ---
 
@@ -21,10 +26,11 @@ Welcome to my GitHub profile! I am a passionate software developer currently bas
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL |
-| **Frontend** | React, React Router, Chakra UI, Tailwind CSS, Recharts |
-| **Backend & DB** | Node.js, Express.js, MongoDB, Mongoose, REST APIs |
-| **Tools & DevOps** | Git, GitHub, Vite, npm/yarn, Postman, Vercel |
+| **Languages** | JavaScript (ES6+), TypeScript, Java, Python, HTML5, CSS3, SQL |
+| **Frontend** | React, React Router, Chakra UI, Tailwind CSS, Recharts, Framer Motion |
+| **Backend & DB** | Node.js, Express.js, MongoDB, Mongoose, REST APIs, SQL Server, MySQL |
+| **No-Code & Automation** | Microsoft Power Apps, Power Automate, SharePoint |
+| **Tools & DevOps** | Git, GitHub, Vite, npm, Vercel, Netlify |
 
 ---
 
@@ -39,6 +45,11 @@ Welcome to my GitHub profile! I am a passionate software developer currently bas
 * A gamified application for routine building and daily habit management.
 * **Tech Stack:** React 19, Tailwind CSS, Express.js, MongoDB, Mongoose, JWT, Framer Motion, Recharts.
 * **Key Features:** User authentication, daily completion streaks, gamified XP & leveling up system, dynamic analytical charts.
+
+### 🏃‍♂️ [Mechanic Runner](https://github.com/ABHINAV1447/mechanic-runner) (JavaScript + HTML5 Canvas)
+* An endless runner browser game with jump/slide mechanics, score systems, and a custom shop.
+* **Tech Stack:** JavaScript, HTML5 Canvas, CSS3.
+* **Demo:** [Live Game](https://mechanic-runner.netlify.app/)
 
 ---
 
